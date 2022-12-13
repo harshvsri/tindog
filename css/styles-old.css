@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Ubuntu&display=swap');
+
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+.container-fluid{
+    padding: 1% 15%;
+}
+
+
+/* /////////////////////////// TITLE ///////////////////////////////// */
+#title{
+    background-color: #FF4C68;
+    color: white;
+    text-align: left;
+}
+
+/* Title */
+.main-title{
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.title-image{
+    width: 50%;
+    position: relative;
+    left: 40px;
+}
+
+/* NavBar */
+.navbar{
+    padding: 0 0 4.5rem 0;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+
+/* Buttons */
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+
+/* /////////////////////////// FEATURES ///////////////////////////////// */
+#features{
+    padding: 8% 0;
+    background-color: white;
+}
+
+/* Feature Title */
+h2{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+/* Feature icons */
+.fa-solid{
+    color: #ef9172;
+}
+.fa-solid:hover{
+    color: #FF4C68;
+}
+
+/* Feature Discription */
+.feature-discription{
+    color: #8F8F8F;
+    padding: 0 15%;
+}
+h3{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding-top: 15px;
+}
+
+
+/* ///////////////////////// TESTIMONOIALS /////////////////////////////////// */
+#testimonials{
+    padding: 7% 15%;
+    background-color: #FF4C68;
+    color: white;
+}
+
+/* Tstimonial Images */
+.testimonial-images{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-text{
+    margin-top: 30px;
+}
+
+
+/* ///////////////////////// PRESS /////////////////////////////////// */
+#press{
+    background-color: #FF4C68;
+    padding-bottom: 3%;
+}
+
+/* Press Images */
+.press-images{
+    width: 15%;
+    padding: 20px 20px 50px;
+}
+
+
+/* ////////////////////////// PRICING ////////////////////////////////// */
+#pricing{
+    padding: 100px;
+}
+
+/* Pricing Column */
+.pricing-col{
+    padding: 3% 2%;
+}
+.pricing-description{
+    color: #8F8F8F;
+}
+
+/* ////////////////////////// CTA ////////////////////////////////// */
+
+#cta{
+    background-color: #FF4C68;
+    color: white;
+    padding-top: 4%;
+    
+}
+.cta-text{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3.5rem;
+}
+
+/* ////////////////////////// FOOTER ////////////////////////////////// */
+
+#footer{
+    
+    background-color: white;
+}
+.footer-icon{
+    padding: 5% 2% 2%;
+}
+.copyright{
+    color: #8F8F8F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
